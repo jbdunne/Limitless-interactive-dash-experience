@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IPG_ios_ui_usb.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>IPG_osx_ios.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>IPG_osx_video_usb.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>830377151ACA6D5800B8C327</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>830377301ACA6D5800B8C327</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83DFEC021ACA68CA00C9B756</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83DFEC151ACA68CB00C9B756</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83DFEC291ACA691600C9B756</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83DFEC3E1ACA691600C9B756</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
